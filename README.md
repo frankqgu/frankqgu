@@ -35,4 +35,4 @@ I'm a passionate on Machine Learning, Web development, Content Creation, and Dat
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eldoraboo&show_icons=true&locale=en" alt="eldoraboo" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eldoraboo&" alt="eldoraboo" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frankqgu&" alt="eldoraboo" /></p>
