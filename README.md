@@ -28,7 +28,7 @@ I'm a passionate on Machine Learning, Web development, Content Creation, and Dat
 <h4 align="left">Database:</h4>
 <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png" alt="postgresql" width="65" height="40"/> </a>
 <h4 align="left">Data Visualization:</h4>
-<p align="left"> </p>
+<p align="left"> </p> <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1024px-Adobe_Premiere_Pro_CC_icon.svg.png" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg" alt="postgresql" width="40" height="40"/> </a>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eldoraboo&show_icons=true&locale=en&layout=compact" alt="eldoraboo" /></p>
