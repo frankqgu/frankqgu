@@ -31,8 +31,8 @@ I'm a passionate on Machine Learning, Web development, Content Creation, and Dat
 <p align="left"> </p> <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1024px-Adobe_Premiere_Pro_CC_icon.svg.png" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg" alt="postgresql" width="40" height="40"/> </a>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eldoraboo&show_icons=true&locale=en&layout=compact" alt="eldoraboo" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=frankqgu&show_icons=true&locale=en&layout=compact" alt="frankqgu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eldoraboo&show_icons=true&locale=en" alt="eldoraboo" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=frankqgu&show_icons=true&locale=en" alt="frankqgu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frankqgu&" alt="eldoraboo" /></p>
