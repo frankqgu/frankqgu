@@ -11,7 +11,7 @@ I'm a passionate on Machine Learning, Web development, Content Creation, and Dat
 - Tools: GPT-3, ChatGPT, Stable Diffusion, Premier Pro, Photoshop, After Effects
 - Databases: MySQL, Chakra UI
 
-👨‍💻 All of my projects are available at https://eldora.me/
+👨‍💻 All of my projects are available at https://frankqgu.github.io
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
