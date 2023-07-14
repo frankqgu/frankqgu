@@ -3,7 +3,7 @@ Sure! Here's an example of a profile README for GitHub:
 # Hello, I'm Qingyang, but you can call me Frank! 👋
 
 ## About Me 🧑‍💻
-I'm a passionate on Machine Learning, Web development, Content Creation, and Data Science. with a strong interest in Consumer IOT. I enjoy tackling challenging problems, building innovative solutions, and continuously learning new technologies.
+I'm a passionate on Machine Learning, Web development, Content Creation, and Data Science. With a strong interest in Consumer IOT, I enjoy tackling challenging problems, building innovative solutions, and continuously learning new technologies.
 
 ## Skills 🚀 
 - Programming Languages: Javascript, HTML, Python, CSS
