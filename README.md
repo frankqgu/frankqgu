@@ -1,5 +1,3 @@
-Sure! Here's an example of a profile README for GitHub:
-
 # Hello, I'm Qingyang, but you can call me Frank! 👋
 
 ## About Me 🧑‍💻
